@@ -11,7 +11,7 @@ Langkah - langkahnya.
 ![Capture4](https://user-images.githubusercontent.com/73067481/162900113-43a5d3fe-cf51-4b9a-92f4-5b334bc60a9e.PNG)
 
 3. Berikut tampilan Form.
-![Uploading Capture5.PNG…]()
+![Capture5](https://user-images.githubusercontent.com/73067481/162924410-448d81f8-897f-4fcd-b4f1-8cf26c534e8d.PNG)
 
 4. Berikut tampilan Form, jika ada kolom yang belum diisi.
 ![Capture6](https://user-images.githubusercontent.com/73067481/162900215-65675fbf-52fa-499a-8fff-110f1606ec5a.PNG)
